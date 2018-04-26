@@ -1,4 +1,4 @@
-# -- Shakil Rafi and Naotaka Kinoshita
+# AMatterBaby -- Shakil Rafi and Naotaka Kinoshita
 # SoftDev2 pd7
 # K16 -- Ready, set, math!
 # 2018-04-26
